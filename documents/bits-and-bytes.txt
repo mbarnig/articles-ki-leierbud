@@ -1,0 +1,100 @@
+À la même époque, j’étais assistant de recherche à l’Institut d’électronique de École polytechnique fédérale de Zurich et spécialisé dans l’ingénierie des premiers microprocesseurs. J'y ai conçu un plateau de jeu de moulin électronique, équipé de photodiodes et de diodes électroluminescentes pour permettre une interaction simple entre l’ordinateur et le joueur humain.
+
+L’ordinateur ne pouvant pas manipuler physiquement les pions, c’était au joueur humain de les déplacer. Les positions étaient détectées par les photodiodes : une LED clignotante indiquait au joueur où placer ou déplacer le pion de l’ordinateur, ou encore quel pion humain retirer en cas de moulin. L’allumage ou extinction permanent d’une LED confirmait la bonne exécution de l’action.
+
+bit
+octet
+scalaire
+vecteur
+matrice
+tenseur
+jeton
+
+🔹 Chaîne numérique (hiérarchie mathématique)
+bit → octet → scalaire → vecteur → matrice → tenseur
+Chaque niveau ajoute une dimension ou une structure de données.
+
+🔹 Chaîne linguistique (hiérarchie symbolique)
+caractère → mot → jeton (token) → phrase → texte
+Chaque niveau ajoute du sens ou du contexte.
+
+
+Caractère
+Lettre / symbole
+Mot simple
+Jeton (Token)
+Phrase
+Texte / Contexte complet
+
+bit → 0 / 1
+octet → bloc de 8 bits
+scalaire → point
+vecteur → flèche
+matrice → grille 3×3
+tenseur → cube tridimensionnel
+
+Caractère → 
+Lettre/Symbole → 
+Mot → 
+Jeton → 
+Phrase → 
+Texte
+
+
+Voici la hiérarchie corrigée et logique (du plus petit au plus grand) :
+
+Caractère – élément de base : lettre, chiffre, espace, symbole.
+Symbole / Lettre – caractère porteur de signification linguistique.
+Jeton (Token) – unité linguistique utilisée par les IA : peut être un mot entier, une racine, ou une partie de mot.
+Mot – combinaison de jetons formant une unité de sens dans le langage humain.
+Phrase – suite ordonnée de mots exprimant une idée complète.
+Texte – ensemble cohérent de phrases.
+
+🔤 1. Le caractère (character)
+Un caractère est la plus petite unité symbolique d’un texte.
+Il correspond à un code informatique unique dans un système d’encodage comme ASCII ou Unicode.
+👉 Certains caractères ne sont pas visibles, comme les espaces, les retours à la ligne, ou les symboles de contrôle.
+
+🅰️ 2. La lettre (letter)
+Une lettre est un caractère alphabétique, c’est-à-dire un symbole utilisé pour représenter un son linguistique.
+Les lettres appartiennent à un alphabet donné (latin, grec, cyrillique, etc.).
+
+🔍 Pourquoi c’est important en IA linguistique :
+
+Les modèles de traitement du texte (comme ceux utilisés en IA générative ou en NLP) travaillent sur des caractères, jetons ou unités subword.
+👉 Si un accent est séparé, cela peut :
+
+fausser la segmentation en jetons,
+
+altérer la reconnaissance de mots,
+
+compliquer la recherche ou la traduction automatique.
+
+C’est pourquoi la normalisation Unicode (NFC ou NFD) est souvent appliquée avant tout traitement automatique.
+
+🧩 1. Définition générale
+
+Le codage consiste à convertir une information (texte, image, son, symbole, etc.)
+en une représentation numérique exploitable par une machine.
+
+💡 En IA, “coder” ne veut pas dire “programmer”,
+mais “traduire les données en nombres” pour que les algorithmes puissent les comprendre et les manipuler.
+
+Étape 2 — Encodage des mots ou jetons
+
+Les modèles de langage (comme GPT) utilisent des jetons (tokens), c’est-à-dire des unités textuelles numériques.
+Chaque jeton reçoit un identifiant unique, par exemple :
+
+Étape 3 — Encodage vectoriel (embedding)
+
+Le jeton est ensuite représenté par un vecteur de nombres réels, par exemple :
+
+[0.13, -0.47, 0.82, …]
+
+
+👉 Ce vecteur capture le sens du mot dans un espace sémantique multidimensionnel.
+
+exemples avec images, sons, vidéos 
+
+codage et décodage
+
