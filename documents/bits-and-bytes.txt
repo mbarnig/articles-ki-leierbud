@@ -1,6 +1,10 @@
-À la même époque, j’étais assistant de recherche à l’Institut d’électronique de École polytechnique fédérale de Zurich et spécialisé dans l’ingénierie des premiers microprocesseurs. J'y ai conçu un plateau de jeu de moulin électronique, équipé de photodiodes et de diodes électroluminescentes pour permettre une interaction simple entre l’ordinateur et le joueur humain.
+À la même époque, j’étais assistant de recherche à l’Institut d’électronique de École polytechnique fédérale de Zurich et 
+spécialisé dans l’ingénierie des premiers microprocesseurs. J'y ai conçu un plateau de jeu de moulin électronique, 
+équipé de photodiodes et de diodes électroluminescentes pour permettre une interaction simple entre l’ordinateur et le joueur humain.
 
-L’ordinateur ne pouvant pas manipuler physiquement les pions, c’était au joueur humain de les déplacer. Les positions étaient détectées par les photodiodes : une LED clignotante indiquait au joueur où placer ou déplacer le pion de l’ordinateur, ou encore quel pion humain retirer en cas de moulin. L’allumage ou extinction permanent d’une LED confirmait la bonne exécution de l’action.
+L’ordinateur ne pouvant pas manipuler physiquement les pions, c’était au joueur humain de les déplacer. 
+Les positions étaient détectées par les photodiodes : une LED clignotante indiquait au joueur où placer ou déplacer le pion de l’ordinateur, 
+ou encore quel pion humain retirer en cas de moulin. L’allumage ou extinction permanent d’une LED confirmait la bonne exécution de l’action.
 
 bit
 octet
@@ -61,7 +65,8 @@ Les lettres appartiennent à un alphabet donné (latin, grec, cyrillique, etc.).
 
 🔍 Pourquoi c’est important en IA linguistique :
 
-Les modèles de traitement du texte (comme ceux utilisés en IA générative ou en NLP) travaillent sur des caractères, jetons ou unités subword.
+Les modèles de traitement du texte (comme ceux utilisés en IA générative ou en NLP) travaillent sur des caractères, 
+jetons ou unités subword.
 👉 Si un accent est séparé, cela peut :
 
 fausser la segmentation en jetons,
