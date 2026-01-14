@@ -2,7 +2,9 @@ Bit
 
 Mir hu gesinn dass de Bit d'Grondelement vum Binärsystem a vun der Elektronik ass.
 
-Fir de Begrëff vum Bit besser ze verdäitleche benotze mer eng elektronesch Millchen, déi ech Mëtt de 70er Joren op der ETH zu Zürech entwéckelt hunn. Dës Millche befënnt sech haut am technesche Musée Computarium zu Dikrech. E Bild vun der Millchen aus där Zäit am Labo gesäit een op de follgende Polaroid-Fotoen.
+Fir de Begrëff vum Bit besser ze verdäitleche benotze mer eng elektronesch Millchen, déi ech Mëtt de 70er Joren op der ETH zu Zürech entwéckelt hunn. 
+Dës Millche befënnt sech haut am technesche Musée Computarium zu Dikrech. 
+E Bild vun der Millchen aus där Zäit am Labo gesäit een op de follgende Polaroid-Fotoen.
 
 Inspiréiert gouf ech deemools vum Projet “Mühlespiel mit dem Computer” am Kader vun “Schweizer Jugend forscht 1976”.
 
@@ -10,8 +12,11 @@ An engem groussen Concours iwwert Schaltungstechnik vun der Zäitschrëft Elektr
 
 Am Mëttelpunkt vu mengen Projet stoung net de Programm fir Millchen ze spillen, mee d’Kommunikatioun tëschent Mënsch a Computer.
 
-Op all Eck a Kreizungspunkt vum Millchebriet ass eng Photodiode agebaut, déi erkennt op watfier Plaazen e Millchesteen gesat ass. Niewent der Photodiode ass eng rout LED agebaut, mat der de Computer kann Uweisungen ginn.
+Op all Eck a Kreizungspunkt vum Millchebriet ass eng Photodiode agebaut, déi erkennt op watfier Plaazen e Millchesteen gesat ass. 
+Niewent der Photodiode ass eng rout LED agebaut, mat der de Computer kann Uweisungen ginn.
 
-Den Zoustand vun der Photodiode (donkel wann e Millchensteen drop street, hell am anderen Fall) gëtt mat engem Bit (0 oder 1) gespeichert. Och den Zoustand vun der LED (donkel wann se ausgeschalt ass, rout wann se ageschalt ass), gëtt durch ee Bit bestëmmt. Mat engem zweete Bit kann een festleeën ob d'LED am Sekonne-Rythmus blénkt oder permanent liicht.
+Den Zoustand vun der Photodiode (donkel wann e Millchensteen drop street, hell am anderen Fall) gëtt mat engem Bit (0 oder 1) gespeichert. 
+Och den Zoustand vun der LED (donkel wann se ausgeschalt ass, rout wann se ageschalt ass), gëtt durch ee Bit bestëmmt. 
+Mat engem zweete Bit kann een festleeën ob d'LED am Sekonne-Rythmus blénkt oder permanent liicht.
 
 Am nächste Schrëtt beschäftegen mir eis mam Byte.
