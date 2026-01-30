@@ -4,3 +4,4 @@ Projets d'articles pour le portail KI-Léierbud
 * https://innovative-initiatives.public.lu/stories/launch-luxembourgs-elements-ai-course
 * https://www.linkedin.com/posts/eurocc-luxembourg_moocs-university-of-luxembourg-competence-activity-7008558371549138944-lJe8
 * https://www.siliconluxembourg.lu/unveiling-luxembourg-3rd-edition-of-elements-of-ai-course/
+* [dkv](https://www.dkv.global/ai-index/part5)
